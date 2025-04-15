@@ -1,0 +1,3 @@
+undetected-chromedriver
+kafka-python
+pathway
